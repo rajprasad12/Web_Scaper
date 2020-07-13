@@ -10,7 +10,7 @@ It is a python tool which helps to extracts dara like links, subdomains by the h
 ## Installation
 
 ```
-git clone https://github.com/aboul3la/Sublist3r.git
+git clone https://github.com/aboul3la/Web_Scaper.git
 ```
 
 ## Recommended Python Version:
@@ -24,9 +24,9 @@ Sublist3r currently supports **Python 2** and **Python 3**.
 
 - Installation on Windows:
 ```
-Open CMD in the same folder where all this files are present
+Open CMD in the same folder where all this files are present when you download
 
-c:\python27\python.exe -m pip install -r requirements.txt
+Type in cmd python.exe -m pip install -r requirements.txt
 
 It will install all modules which requires to run this script
 ```
