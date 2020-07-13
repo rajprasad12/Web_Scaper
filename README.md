@@ -4,7 +4,7 @@ It is a python tool which helps to extracts dara like links, subdomains by the h
 
 ## Screenshots
 
-![Sublist3r]("https://github.com/rajprasad12/Web_Scaper/blob/master/links.PNG")
+![]("https://github.com/rajprasad12/Web_Scaper/blob/master/links.PNG")
 
 
 ## Installation
